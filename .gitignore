@@ -1,0 +1,3 @@
+venv/
+wsgi.log
+*.egg-info/
